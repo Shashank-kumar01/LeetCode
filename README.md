@@ -6,14 +6,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0867-transpose-matrix](https://github.com/Shashank-kumar01/LeetCode/tree/master/0867-transpose-matrix) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Shashank-kumar01/LeetCode/tree/master/2022-convert-1d-array-into-2d-array) |
 ## Matrix
 |  |
 | ------- |
+| [0867-transpose-matrix](https://github.com/Shashank-kumar01/LeetCode/tree/master/0867-transpose-matrix) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Shashank-kumar01/LeetCode/tree/master/2022-convert-1d-array-into-2d-array) |
 ## Simulation
 |  |
 | ------- |
+| [0867-transpose-matrix](https://github.com/Shashank-kumar01/LeetCode/tree/master/0867-transpose-matrix) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Shashank-kumar01/LeetCode/tree/master/2022-convert-1d-array-into-2d-array) |
 ## Hash Table
 |  |
