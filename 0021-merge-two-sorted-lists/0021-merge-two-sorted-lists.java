@@ -11,36 +11,36 @@
 class Solution {
     public ListNode mergeTwoLists(ListNode list1, ListNode list2) {
 
-        //this approch is by creting a new LL
+        //this solution uses inplace approach without create new LL
+
         ListNode temp1 = list1 ;
         ListNode temp2 = list2 ;
-        ListNode temp = new ListNode(100) ;
-        ListNode head = temp;
+        ListNode h = new ListNode(100) ;
+        ListNode t = h ;
 
         while(temp1 != null && temp2 != null)
         {
             if(temp1.val < temp2.val)
             {
-                ListNode a = new ListNode(temp1.val) ;
-                temp.next = a ; 
-                temp = a ;
-                temp1 = temp1.next ;
+                t.next = temp1;
+                t = t.next ;
+                temp1 = temp1.next;
             }
             else
             {
-                ListNode a = new ListNode(temp2.val) ;
-                temp.next = a ; 
-                temp = a ;
-                temp2 = temp2.next ;
+                t.next = temp2;
+                t = t.next ;
+                temp2 = temp2.next;
             }
         }
-        if(temp1 == null) //if LL1 fnshd bfr LL2 thn all vlues of LL1 r cn3ctd with LL2 
-            temp.next = temp2 ;
 
-        else //if LL22 fnshd bfr LL1 thn all vlues of LL2 r cn3ctd with LL1
-            temp.next = temp1 ;
+        if(temp1 == null)
+            t.next = temp2 ;
 
-        head = head.next ; // head had a value 100 in first node so return the rest excpt this node
-        return head ;
+        else
+            t.next = temp1 ;
+
+        return h.next ;
+        
     }
 }
