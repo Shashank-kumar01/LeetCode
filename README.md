@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Shashank-kumar01/LeetCode/tree/master/0013-roman-to-integer) |
+| [0509-fibonacci-number](https://github.com/Shashank-kumar01/LeetCode/tree/master/0509-fibonacci-number) |
 ## String
 |  |
 | ------- |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/Shashank-kumar01/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Shashank-kumar01/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Shashank-kumar01/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0509-fibonacci-number](https://github.com/Shashank-kumar01/LeetCode/tree/master/0509-fibonacci-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -83,4 +85,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Shashank-kumar01/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Shashank-kumar01/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Shashank-kumar01/LeetCode/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Shashank-kumar01/LeetCode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
