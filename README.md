@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Shashank-kumar01/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/Shashank-kumar01/LeetCode/tree/master/0283-move-zeroes) |
+| [0560-subarray-sum-equals-k](https://github.com/Shashank-kumar01/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0867-transpose-matrix](https://github.com/Shashank-kumar01/LeetCode/tree/master/0867-transpose-matrix) |
 | [0977-squares-of-a-sorted-array](https://github.com/Shashank-kumar01/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Shashank-kumar01/LeetCode/tree/master/2022-convert-1d-array-into-2d-array) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Shashank-kumar01/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Shashank-kumar01/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Shashank-kumar01/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0560-subarray-sum-equals-k](https://github.com/Shashank-kumar01/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 ## Math
 |  |
 | ------- |
@@ -106,4 +108,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Shashank-kumar01/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/Shashank-kumar01/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
