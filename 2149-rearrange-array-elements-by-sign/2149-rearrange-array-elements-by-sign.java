@@ -8,7 +8,7 @@ class Solution {
 
         for(int i = 0 ; i < nums.length ; i++)
         {
-            if(nums[i] > 0)
+            if(nums[i] >= 0)
             {
                 ans[pos] = nums[i] ;
                 pos += 2 ;
