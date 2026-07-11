@@ -14,12 +14,11 @@ class Solution {
             else
                 map.put(nums[i] , 1);
         }
-        for(int i = 0 ; i < n; i++)
+         for (int key : map.keySet()) 
         {
-            if(map.get(nums[i]) > n/3)
+            if (map.get(key) > n / 3) 
             {
-                if(!ans.contains(nums[i]))
-                    ans.add(nums[i]);
+                ans.add(key);
             }
         }
         return ans;   
