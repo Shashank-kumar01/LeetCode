@@ -4,7 +4,7 @@ class Solution {
         int buyPrice = Integer.MAX_VALUE ;
         int maxProfit = 0 ;
 
-        for(int i = 0 ; i < prices.length ; i++) //i=1 bcz on 0th day we will buy the stock
+        for(int i = 0 ; i < prices.length ; i++) 
         {
             if(buyPrice < prices[i])
             {
