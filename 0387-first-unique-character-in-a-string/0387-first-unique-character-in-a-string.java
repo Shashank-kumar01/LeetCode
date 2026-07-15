@@ -1,26 +1,19 @@
 class Solution {
     public int firstUniqChar(String s) {
 
-        HashMap<Character , Integer> map = new HashMap<>() ;
+        int freq[] = new int [26] ;
 
-        for(int i = 0 ; i < s.length(); i++)
+        for(int i = 0 ; i < s.length() ; i++)
         {
-            char ch = s.charAt(i) ;
-
-            if(map.containsKey(ch))
-                map.put(ch , map.get(ch)+1);
-
-            else
-                map.put(ch , 1) ;
+            freq[s.charAt(i) - 'a']++ ; //counts frequency of each letter
         }
 
         for(int i = 0 ; i < s.length(); i++)
         {
-            char ch = s.charAt(i) ;
-
-            if(map.get(ch) == 1)
-                return i ;
+            if(freq[s.charAt(i) - 'a'] == 1)
+            return i ;
         }
         return -1 ;
+        
     }
 }
