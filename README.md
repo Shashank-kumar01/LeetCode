@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Shashank-kumar01/LeetCode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Shashank-kumar01/LeetCode/tree/master/0048-rotate-image) |
 | [0509-fibonacci-number](https://github.com/Shashank-kumar01/LeetCode/tree/master/0509-fibonacci-number) |
+| [1903-largest-odd-number-in-string](https://github.com/Shashank-kumar01/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 ## String
 |  |
 | ------- |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Shashank-kumar01/LeetCode/tree/master/0125-valid-palindrome) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shashank-kumar01/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0796-rotate-string](https://github.com/Shashank-kumar01/LeetCode/tree/master/0796-rotate-string) |
+| [1903-largest-odd-number-in-string](https://github.com/Shashank-kumar01/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/Shashank-kumar01/LeetCode/tree/master/1957-delete-characters-to-make-fancy-string) |
 ## Linked List
 |  |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0324-wiggle-sort-ii](https://github.com/Shashank-kumar01/LeetCode/tree/master/0324-wiggle-sort-ii) |
+| [1903-largest-odd-number-in-string](https://github.com/Shashank-kumar01/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 ## Quickselect
 |  |
 | ------- |
