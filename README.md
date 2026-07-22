@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Shashank-kumar01/LeetCode/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/Shashank-kumar01/LeetCode/tree/master/0283-move-zeroes) |
 | [0324-wiggle-sort-ii](https://github.com/Shashank-kumar01/LeetCode/tree/master/0324-wiggle-sort-ii) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Shashank-kumar01/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/Shashank-kumar01/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/Shashank-kumar01/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0867-transpose-matrix](https://github.com/Shashank-kumar01/LeetCode/tree/master/0867-transpose-matrix) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Shashank-kumar01/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Shashank-kumar01/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0229-majority-element-ii](https://github.com/Shashank-kumar01/LeetCode/tree/master/0229-majority-element-ii) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Shashank-kumar01/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shashank-kumar01/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/Shashank-kumar01/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 ## Math
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Shashank-kumar01/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Shashank-kumar01/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Shashank-kumar01/LeetCode/tree/master/0283-move-zeroes) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Shashank-kumar01/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0443-string-compression](https://github.com/Shashank-kumar01/LeetCode/tree/master/0443-string-compression) |
 | [0876-middle-of-the-linked-list](https://github.com/Shashank-kumar01/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Shashank-kumar01/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
@@ -115,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0229-majority-element-ii](https://github.com/Shashank-kumar01/LeetCode/tree/master/0229-majority-element-ii) |
 | [0324-wiggle-sort-ii](https://github.com/Shashank-kumar01/LeetCode/tree/master/0324-wiggle-sort-ii) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Shashank-kumar01/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Shashank-kumar01/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 ## Stack
 |  |
@@ -135,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Shashank-kumar01/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Shashank-kumar01/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Shashank-kumar01/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Sliding Window
 |  |
