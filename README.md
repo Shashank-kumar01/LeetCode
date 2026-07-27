@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Shashank-kumar01/LeetCode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Shashank-kumar01/LeetCode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Shashank-kumar01/LeetCode/tree/master/0066-plus-one) |
+| [0342-power-of-four](https://github.com/Shashank-kumar01/LeetCode/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/Shashank-kumar01/LeetCode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shashank-kumar01/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/Shashank-kumar01/LeetCode/tree/master/0633-sum-of-square-numbers) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/Shashank-kumar01/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Shashank-kumar01/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Shashank-kumar01/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0342-power-of-four](https://github.com/Shashank-kumar01/LeetCode/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/Shashank-kumar01/LeetCode/tree/master/0509-fibonacci-number) |
 ## Two Pointers
 |  |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Shashank-kumar01/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0342-power-of-four](https://github.com/Shashank-kumar01/LeetCode/tree/master/0342-power-of-four) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
