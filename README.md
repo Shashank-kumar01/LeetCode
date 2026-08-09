@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Shashank-kumar01/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/Shashank-kumar01/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [1903-largest-odd-number-in-string](https://github.com/Shashank-kumar01/LeetCode/tree/master/1903-largest-odd-number-in-string) |
+| [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/Shashank-kumar01/LeetCode/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 | [3536-maximum-product-of-two-digits](https://github.com/Shashank-kumar01/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 ## String
 |  |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Shashank-kumar01/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1903-largest-odd-number-in-string](https://github.com/Shashank-kumar01/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/Shashank-kumar01/LeetCode/tree/master/1957-delete-characters-to-make-fancy-string) |
+| [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/Shashank-kumar01/LeetCode/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 ## Linked List
 |  |
 | ------- |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0229-majority-element-ii](https://github.com/Shashank-kumar01/LeetCode/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shashank-kumar01/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/Shashank-kumar01/LeetCode/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 ## String Matching
 |  |
 | ------- |
