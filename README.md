@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Shashank-kumar01/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/Shashank-kumar01/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [1903-largest-odd-number-in-string](https://github.com/Shashank-kumar01/LeetCode/tree/master/1903-largest-odd-number-in-string) |
+| [2409-count-days-spent-together](https://github.com/Shashank-kumar01/LeetCode/tree/master/2409-count-days-spent-together) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/Shashank-kumar01/LeetCode/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 | [3536-maximum-product-of-two-digits](https://github.com/Shashank-kumar01/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 ## String
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Shashank-kumar01/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/Shashank-kumar01/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/Shashank-kumar01/LeetCode/tree/master/1957-delete-characters-to-make-fancy-string) |
+| [2409-count-days-spent-together](https://github.com/Shashank-kumar01/LeetCode/tree/master/2409-count-days-spent-together) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/Shashank-kumar01/LeetCode/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 ## Linked List
 |  |
