@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Shashank-kumar01/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/Shashank-kumar01/LeetCode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Shashank-kumar01/LeetCode/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/Shashank-kumar01/LeetCode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Shashank-kumar01/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shashank-kumar01/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Shashank-kumar01/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Shashank-kumar01/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shashank-kumar01/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Shashank-kumar01/LeetCode/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/Shashank-kumar01/LeetCode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Shashank-kumar01/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/Shashank-kumar01/LeetCode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Shashank-kumar01/LeetCode/tree/master/0141-linked-list-cycle) |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Shashank-kumar01/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Shashank-kumar01/LeetCode/tree/master/0016-3sum-closest) |
+| [0075-sort-colors](https://github.com/Shashank-kumar01/LeetCode/tree/master/0075-sort-colors) |
 | [0229-majority-element-ii](https://github.com/Shashank-kumar01/LeetCode/tree/master/0229-majority-element-ii) |
 | [0324-wiggle-sort-ii](https://github.com/Shashank-kumar01/LeetCode/tree/master/0324-wiggle-sort-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shashank-kumar01/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -253,4 +256,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Shashank-kumar01/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Shashank-kumar01/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Shashank-kumar01/LeetCode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Shashank-kumar01/LeetCode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
