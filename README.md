@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Shashank-kumar01/LeetCode/tree/master/0067-add-binary) |
 | [0867-transpose-matrix](https://github.com/Shashank-kumar01/LeetCode/tree/master/0867-transpose-matrix) |
 | [1929-concatenation-of-array](https://github.com/Shashank-kumar01/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Shashank-kumar01/LeetCode/tree/master/2022-convert-1d-array-into-2d-array) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Shashank-kumar01/LeetCode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Shashank-kumar01/LeetCode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Shashank-kumar01/LeetCode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Shashank-kumar01/LeetCode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Shashank-kumar01/LeetCode/tree/master/0070-climbing-stairs) |
 | [0342-power-of-four](https://github.com/Shashank-kumar01/LeetCode/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/Shashank-kumar01/LeetCode/tree/master/0509-fibonacci-number) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Shashank-kumar01/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Shashank-kumar01/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Shashank-kumar01/LeetCode/tree/master/0020-valid-parentheses) |
+| [0067-add-binary](https://github.com/Shashank-kumar01/LeetCode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Shashank-kumar01/LeetCode/tree/master/0125-valid-palindrome) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shashank-kumar01/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0443-string-compression](https://github.com/Shashank-kumar01/LeetCode/tree/master/0443-string-compression) |
@@ -247,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Shashank-kumar01/LeetCode/tree/master/0067-add-binary) |
 | [0287-find-the-duplicate-number](https://github.com/Shashank-kumar01/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/Shashank-kumar01/LeetCode/tree/master/0342-power-of-four) |
 ## Heap (Priority Queue)
