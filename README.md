@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shashank-kumar01/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/Shashank-kumar01/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1572-matrix-diagonal-sum](https://github.com/Shashank-kumar01/LeetCode/tree/master/1572-matrix-diagonal-sum) |
+| [1870-minimum-speed-to-arrive-on-time](https://github.com/Shashank-kumar01/LeetCode/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1929-concatenation-of-array](https://github.com/Shashank-kumar01/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Shashank-kumar01/LeetCode/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Shashank-kumar01/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shashank-kumar01/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0633-sum-of-square-numbers](https://github.com/Shashank-kumar01/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Shashank-kumar01/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1870-minimum-speed-to-arrive-on-time](https://github.com/Shashank-kumar01/LeetCode/tree/master/1870-minimum-speed-to-arrive-on-time) |
 ## Sliding Window
 |  |
 | ------- |
