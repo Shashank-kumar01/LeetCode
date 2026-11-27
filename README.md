@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Shashank-kumar01/LeetCode/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/Shashank-kumar01/LeetCode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Shashank-kumar01/LeetCode/tree/master/0125-valid-palindrome) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Shashank-kumar01/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shashank-kumar01/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0443-string-compression](https://github.com/Shashank-kumar01/LeetCode/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Shashank-kumar01/LeetCode/tree/master/0567-permutation-in-string) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Shashank-kumar01/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Shashank-kumar01/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Shashank-kumar01/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Shashank-kumar01/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shashank-kumar01/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0443-string-compression](https://github.com/Shashank-kumar01/LeetCode/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Shashank-kumar01/LeetCode/tree/master/0567-permutation-in-string) |
